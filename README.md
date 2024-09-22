@@ -7,5 +7,6 @@ Number row characters
 - ^(caret)
 - &(and sign)
 - *(asterisk)
-(
-)
+- #[THE ELEPHANT WHISPERERS]https://www.netflix.com/ca/title/81312835?source=35&preventIntent=true
+-[RRR] https://www.netflix.com/ca/title/81476453?source=35&preventIntent=true
+# Emojis 
