@@ -13,3 +13,6 @@ Number row characters
  :blush:
  :wink:
   :sleeping:
+
+
+# [CLI commands](docs/cli.md)
